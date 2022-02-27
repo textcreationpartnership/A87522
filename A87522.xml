@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The answer of Judge Jenkins, to the imputation put upon his plea in Chancerie; which was read in open court the 14 of Februarie, 1647. / And avowed by David Jenkins, prisoner in Newgate.</title>
+            <author>Jenkins, David, 1582-1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87522</idno>
+            <idno type="STC">Wing J581</idno>
+            <idno type="STC">Thomason E428_3</idno>
+            <idno type="STC">ESTC R204226</idno>
+            <idno type="EEBO-CITATION">99863883</idno>
+            <idno type="PROQUEST">99863883</idno>
+            <idno type="VID">161471</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87522)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161471)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 67:E428[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The answer of Judge Jenkins, to the imputation put upon his plea in Chancerie; which was read in open court the 14 of Februarie, 1647. / And avowed by David Jenkins, prisoner in Newgate.</title>
+                  <author>Jenkins, David, 1582-1663.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Regarding a suit by a Mr. Erneley of Wilshire, touching the estate of Jenkins's great-uncle, a Mr. Thomas of Glamorganshire.</note>
+                  <note>Annotation on Thomason copy: "Feb. 19", "1647"; the 8 in imprint date is crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Executors and administrators --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161471:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 42 -->
+            <p>THE ANSWER OF JUDGE JENKINS, TO THE Imputation put upon his Plea in CHANCERIE; Which was read in open Court the 14 of <hi>Februarie,</hi> 1647.</p>
+            <p>And avowed by DAVID JENKINS, Priſoner in NEWGATE.</p>
+            <p>Printed in the Yeare, 1648. <date>
+                  <add>1647.</add>
+               </date>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161471:2"/>
+            <!-- PDF PAGE 43 -->
+            <pb n="1" facs="tcp:161471:2"/>
+            <!-- PDF PAGE 43 -->
+            <head>The Anſwer of Judge JENKINS, to the Imputation put upon his Plea in <hi>CHANCERIE,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Have no diſpoſition, nor ever had, to be knowne by any publique writing: Theſe miſerable times, which fill many mens mouths, and moſt mens eares with noto<g ref="char:EOLhyphen"/>rious untruths, thereby to blaſt and de<g ref="char:EOLhyphen"/>ſtroy the Kings Sacred Majeſtie, his Lawes and Go<g ref="char:EOLhyphen"/>vernment, and to bring in a confuſion; enforceth me at this time (who formerly have written nothing but for the publique) to let the world know how unjuſtly the Pamphleter of this weeke, Licenſed by our <hi>Refor<g ref="char:EOLhyphen"/>mers,</hi> hath traduced me touching a Suit commenced in their Court of <hi>Chancerie</hi> againſt me, by one M. <hi>Er<g ref="char:EOLhyphen"/>neley a Wiltſhire</hi> Gentleman, touching the Eſtate of one M. <hi>Thomas</hi> of <hi>Glamorganſhire:</hi> The truth whereof is as followeth:</p>
+            <p>M. <hi>Thomas,</hi> whoſe Father and my Grandfather were two Brothers, about 17 yeares paſt made his Will, and declared by the ſame his ſon being then of very tender yeares) a Ward to his Majeſtie, and made him his Ex<g ref="char:EOLhyphen"/>ecutor, and my ſelfe during his minoritie, (referring to his Wardſhip) to Adminiſter his Eſtate perſo<g ref="char:EOLhyphen"/>nall and teſtamentary, and to be accomptable to his ſonne when he came to age: And 17 yeares ſithence the Father dyed.</p>
+            <p>This Eſtate conſiſts in a ſtock of Sheepe, ſo diſpo<g ref="char:EOLhyphen"/>ſed by me as the number are yet continued, and for
+<pb n="2" facs="tcp:161471:3"/>
+               <!-- PDF PAGE 44 -->the number and condition, they were at their delive<g ref="char:EOLhyphen"/>rie back, to be made as good by thoſe perſons who had the charge of them, as they were when they were rec<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ed.</p>
+            <p>The reſt of the Eſtate (for any conſiderable part) was in mortgages of Land, forſeited in the life of my young Couſin <hi>Thomas</hi> for many of them; and many abſolutely purchaſed by me in his name in his life time, for the which I am not yet payd.</p>
+            <p>The Land diſcended, and ought, upon Sir <hi>Edward Thomas,</hi> my Couſins Heire at Common Law; ſo that M. <hi>Erneley,</hi> the Plaintiffe in <hi>Chancerie,</hi> hath no co<g ref="char:EOLhyphen"/>lour for the Land: For my young Couſin dyed with<g ref="char:EOLhyphen"/>out iſſue about 17 yeares old, and could not diſpoſe of the Inheritance of any Land by any pretended Will: The ſtock of Sheepe remaines, if the Plan<g ref="char:EOLhyphen"/>tiffe and the <hi>Reformers</hi> have not Plundered them: For the Money, it came all to the Court, it was to ſa<g ref="char:EOLhyphen"/>tisfie the King for the Marriage.</p>
+            <p>The colour the Plaintiffe hath, is this: After the death of my old Kinſman M. <hi>Thomas,</hi> by undue means the young Gentleman was married to M. <hi>Erneleys</hi> Daughter, in a way of Raviſhment, being both chil<g ref="char:EOLhyphen"/>dren, without one penny paid, or conſent of Friends or Kindred: For the which, a Suit of Raviſhment de<g ref="char:EOLhyphen"/>pended againſt M. <hi>Erneley</hi> and others in the Court of <hi>wards.</hi>
+            </p>
+            <p>The young Gentleman dyed about 17 yeares of age, ſithence theſe confuſions, without Iſſue; and ſome houre before my young Couſins death (who dyed of a peſtilent Feaver) M. <hi>Erneley</hi> pretends a Will made by him, and that he made his wife (M. <hi>Er<g ref="char:EOLhyphen"/>neleys</hi> Daughter) his Executrix: His ſaid wife dyes
+<pb n="3" facs="tcp:161471:3"/>
+               <!-- PDF PAGE 44 -->ſoone after, and is pretended to make a Nuncupative Will, and to make her Father (M. <hi>Erneley</hi>) her Exe<g ref="char:EOLhyphen"/>cutor, and ſo pretends as Executor of an Executor of an Executor: which pretended Wills, he ſaith he hath proved in the Courts of his Friends, the <hi>Refor<g ref="char:EOLhyphen"/>mers.</hi>
+            </p>
+            <p>Whether ſuch Wills were made or no, muſt receive an equall examination, and of what validitie they are, being pretended to be made by children <hi>in extremis,</hi> if made at all? And whether an Executor of an Execu<g ref="char:EOLhyphen"/>tor of an Executor can maintain an accompt by the Law of the Land? And whether (I being Executor during the minoritie, <hi>viz.</hi> the Wardſhip) my young Couſin could make ſuch a Will as is pretended, he being no Executor till his full age.</p>
+            <p>The age touching Wills, the Law of this Land de<g ref="char:EOLhyphen"/>termines to be 21 yeares,
+<note place="margin">37. <hi>H.</hi> 6.5. 21 <hi>Ed.</hi> 4.24.</note> and before that age at Com<g ref="char:EOLhyphen"/>mon Law an uſe could not be deviſed. For Wills touching Goods and Chattells, our Law for many ages have left the ſame to the deciſion of the Civill and Canon Lawes, in the Biſhops Courts: That Law, (as <hi>Iustinian</hi> hath it in the ſecond Booke of his <hi>Inſti<g ref="char:EOLhyphen"/>tutions,</hi> the twelfth <hi>chap.</hi>) is, <hi>Impuberi non licet teſtari:</hi> This <hi>Pubertas</hi> begins at 14, it is <hi>Plena pubertas</hi> at 18 yeares of age; The queſtion is, whether this <hi>jus te<g ref="char:EOLhyphen"/>ſtandi</hi> is in <hi>pubertate plena,</hi> or <hi>pubertate inceptâ: Pigots Caſe,</hi> 5. part of <hi>Cookes Reports,</hi> the Doctors affirmed, that 17 yeares of age was a full age as to an infant Ex<g ref="char:EOLhyphen"/>ecutor to diſpoſe of Goods: This opinion hath bin by others ſithence denyed. Sir <hi>Edward Cooke</hi> 11 part, <hi>Inſtit. ſect.</hi> 123. ſaith, He muſt be 18, which is the time of <hi>plena pubertas.</hi> 2 <hi>Hen.</hi> 4.12. an infant of 18 yeares of age may be a deiſſeiſour. Sir <hi>Io. Dodderidge</hi>
+               <pb n="4" facs="tcp:161471:4"/>
+               <!-- PDF PAGE 45 -->in his Booke called, <hi>The Office and Dutie of Executors;</hi> which they ſay is his, and it is a Learned and labori<g ref="char:EOLhyphen"/>ous Treatiſe, <hi>fol.</hi> 347. delivers, that this opinion of 17 yeares, for that abilitie in an infant, hath been repor<g ref="char:EOLhyphen"/>ted otherwiſe: This latter opinion comes neerer the Common Law, and the Statute Law of the Land: which Common Law, and Statute Law, gives infants no power by Deed or Will to make any diſpoſition of any thing they have, before 21 yeares of age.</p>
+            <p>It ſeems alſo more reaſonable, becauſe infants at 18 yeares have, by the intendment of Law, as they grow in yeares, more uſe of reaſon, to diſcerne what is fit for them to doe and act. And for a meere ſtranger to ſue in a Court of Conſcience, who pretends by ſuch Wills of infants (the infant Husband being raviſhed) againſt the will of the Kindred of the deceaſed, who died ſix yeares ſithence without iſſue (being 17 yeares of age) and that any part of his eſtate ſhould goe that way by a courſe of Equitie, unleſſe the Law be for M. <hi>Erneley,</hi> who payd not a penny with his Daughter, and who would have the Husband of his Daughter bring him a Portion, by his pretended Title of an Ex<g ref="char:EOLhyphen"/>ecutor of an Executor of an Executor, <hi>viz.</hi> of an in<g ref="char:EOLhyphen"/>fant the Executor of another infant, the Executor of a third perſon, ſeemes very ſtrange.</p>
+            <p>The ſaid Licenſed Hiſtoriographer of theirs, hath publiſhed the 16 of this preſent moneth of <hi>February, 1647, That I, out of a deſire to keepe the Eſtate, have in a Suit in the Court of</hi> Wards, <hi>in my Couſins life time, pleaded to the Juriſdiction of that Court.</hi> It is true, I did ſo: for I conceived that the Eſtate would be unſafe in M. <hi>Erne<g ref="char:EOLhyphen"/>ley's</hi> hands, and I was willing to preſerve it till my young Couſin came to be of age, to diſpoſe of it him<g ref="char:EOLhyphen"/>ſelfe, according as I was truſted.</p>
+            <p>
+               <pb n="5" facs="tcp:161471:4"/>
+               <!-- PDF PAGE 45 -->
+The Law being,
+<note place="margin">32 <hi>H.</hi> 8. <hi>c.</hi> 45. 4 <hi>pars Inſtit. fol.</hi> 201.202.</note> that the Court of <hi>Wards</hi> had no Juriſdiction over the perſonall Eſtate (for then the Marriage was payd for to the King, and all due to the King aſcertained.) It is true, that that was inſiſted upon as was juſt, for to preſerve the Eſtate from M. <hi>Erneley,</hi> who would have made what Accompt he plea<g ref="char:EOLhyphen"/>ſed to my Couſin at his full age: And this is the truth of that buſineſſe.</p>
+            <p>That I declined not the Juriſdiction of the <hi>Chan<g ref="char:EOLhyphen"/>cerie,</hi> to keepe an Eſtate in my hand, appeares, by my declining long ſithence the Power of the Houſe of Commons to examine me; and the <hi>Reformers</hi> have all my Eſtate: What would M. <hi>Erneley</hi> have, when they (the <hi>Reformers</hi>) have all alreadie, or can have from me, if he had any colour?</p>
+            <p>I deſire the good people of this Citie to obſerve what notorious Untruths their Licenſed Hiſtorio<g ref="char:EOLhyphen"/>graphers publiſh, to delude the people: In this par<g ref="char:EOLhyphen"/>ticular Caſe they publiſh;</p>
+            <p>Firſt, That <hi>the Suit againſt me, is in the behalfe of an Orphan:</hi> M. <hi>Erneley</hi> (who is Plaintiffe in their Court) is a <hi>Wiltſhire</hi> Gentleman, at leaſt of 50 yeares of age; there is their <hi>Orphan.</hi>
+            </p>
+            <p>Secondly, That <hi>I made a ſpeech to the people at the Hall doore, that the queſtioning of me for what I had done for the King, was illegall; and that the Iudges had no power to trie me, the King being abſent:</hi> Another notorious untruth! For I proteſt to God, all that I ſaid was only this, <hi>God preſerve the King, and the Lawes.</hi>
+            </p>
+            <p>Thirdly, it is ſaid, That comming to the Barre, I ſtirred not my Hat: All the Lawyers then at the Barre were uncovered; wherefore I held it a civilitie, to be alſo uncovered: and ſo I was, as they all know.</p>
+            <p>
+               <pb n="6" facs="tcp:161471:5"/>
+               <!-- PDF PAGE 46 -->
+Fourthly, That <hi>the Earle of</hi> Mancheſter <hi>ſhould ſay, I received a great Eſtate in Money of the Orphans Eſtate:</hi> As there is no truth in it, ſo it is moſt untrue that the ſaid Lord ſaid ſo (as all men preſent can teſtifie.) The truth is they care not what they doe what they ſay, what they ſweare, nor what they write: Witneſſe their <hi>Declaration</hi> of a prevailing partie of the Houſe of Commons, of the 11 of this inſtant <hi>February;</hi> who contrarie to the Oath of <hi>Allegiance,</hi> the Oath of <hi>Supremacie,</hi> the <hi>Proteſta<g ref="char:EOLhyphen"/>tion,</hi> their <hi>ſolemne League and Covenant,</hi> their <hi>Declarations,</hi> to make his Majeſtie a glorious King, fearefull to his Enemies, and beloved of his Subjects; and yet now, after 22 yeares, they would inſinuate to the people, that this King, whom they have ſo much magnified, hath poyſoned his owne Father.</p>
+            <p>Fifthly, it is a publike notorious untruth<g ref="char:punc">▪</g> That <hi>the Parlia<g ref="char:EOLhyphen"/>ment hath publiſhed a Declaration againſt the King, of the</hi> 11 <hi>of this inſtant February;</hi> whereas it is well knowne to be the <hi>De<g ref="char:EOLhyphen"/>claration</hi> of the prevailing partie of the Houſe of Commons onely, without the Lords; and ſo they would make <hi>that prevai<g ref="char:EOLhyphen"/>ling partie onely to be the
+<note n="*" place="margin">
+                     <hi>Their licen<g ref="char:EOLhyphen"/>ſed Historio<g ref="char:EOLhyphen"/>grapher, who publiſheth this, is called their</hi> Kingdomes weekely Poſt, <hi>from Wedneſ<g ref="char:EOLhyphen"/>day, Febr. to wedneſday the</hi> 16 <hi>of Febr.</hi> 1647.</note> Parliament.</hi>
+            </p>
+            <p>Let the people of <hi>England</hi> believe their five Sences; how it was with them ſeven yeares agoe, and before, during his Ma<g ref="char:EOLhyphen"/>jeſties Reigne; how this Kingdome abounded then with Peace, Plentie and Glory, to the admiration and envie of other Na<g ref="char:EOLhyphen"/>tions: and now let them conſider and judge by their Sences, ſithence thoſe men (whom nothing would ſatisfie, but all Power both by Sea and Land, which in truth is the Regalitie and Kingſhip, and which they call the <hi>Militia</hi>) have uſurped the ſaid Power Regall, whether they have not by Impoſtures and Deluſions, diffuſed among the people by themſelves and their Agents, brought a flouriſhing Kingdome to the moſt de<g ref="char:EOLhyphen"/>plorable condition it now is in.</p>
+            <p>To the end that this Kingdome may not utterly be ruined, God incline their hearts to reſtore his Majeſtie, and for their owne and their Poſterities ſake, to receive from his Majeſtie an Act of Oblivion, a generall Pardon, aſſurance for the Ar<g ref="char:EOLhyphen"/>reres of the Souldierie, and meet ſatisfaction for tender Con<g ref="char:EOLhyphen"/>ſciences.</p>
+            <closer>
+               <signed>DA. JENKINS.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
